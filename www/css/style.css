@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+#wrapper {
+	position: absolute;	
+	width: 30px;
+    height: 30px;
+	left:50%;
+    top: 50%;
+	margin-left:-15px;
+   	margin-top:-15px;
+}
+#ball {
+	position: relative;
+	width: 30px;
+	height: 30px;
+    left: 0px;
+    top: 0px;
+    border-radius: 15px;
+	background-color: red;
+}
