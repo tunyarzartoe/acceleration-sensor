@@ -1,5 +1,4 @@
 'use strict';
-
 // 要素の取得
 const ball = document.getElementById('ball');
 // ボールの移動量
